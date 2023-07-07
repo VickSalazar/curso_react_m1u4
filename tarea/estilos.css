@@ -1,0 +1,20 @@
+/*#divImagenEspaniol: solo para el id divImagenEspaniol*/
+#divImagenEspaniol{
+background-color: cadetblue;
+}
+
+/*#divImagenEspaniol: solo para el id divImagenIngles*/
+#divImagenIngles{
+background-color:forestgreen;
+
+}
+
+.claseH2Contacto{
+background-color: darkgoldenrod;
+font-size: large;
+font-weight: 200;
+}
+
+label{
+    font-weight: bold;
+}
